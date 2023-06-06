@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #2B3784;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    height: 70px;
+    background-color: #447BBE;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.articulo{
+    padding: 10px;
+    background-color: #B11313;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 70px;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
