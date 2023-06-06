@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'SpiderMan-Sans';
+    src: url('fonts/The\ Amazing\ Spider-Man.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
 body{
     margin: 0;
     padding: 0;
@@ -32,8 +38,14 @@ header{
 }
 .logo img{
     height: 70px;
+    margin-right: 10px;
 }
 nav a{
     font-weight: 600;
     padding-right: 10px;
+}
+a p{
+    font-family: 'SpiderMan-Sans';
+    font-weight: 600;
+    font-size: 30px;
 }
