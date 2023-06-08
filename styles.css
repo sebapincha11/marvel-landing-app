@@ -51,3 +51,23 @@ a p{
     height: 200px;
     float: right;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #447BBE;
+}
+.redes{
+    justify-content: center;
+    
+}
+.author{
+    justify-content: center;
+}
+footer img{
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
