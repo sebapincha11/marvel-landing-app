@@ -24,45 +24,27 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-<<<<<<< HEAD
     border: 2px solid black;
-=======
->>>>>>> b5d054be576ebca683d1008215acb4c0da527c81
 }
 
 .articulo{
     padding: 10px;
     background-color: #B11313;
     border-radius: 20px;
-<<<<<<< HEAD
     margin: 10px;
-=======
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
->>>>>>> b5d054be576ebca683d1008215acb4c0da527c81
 }
 .logo{
     display: flex;
     align-items: center;
 }
 .logo img{
-<<<<<<< HEAD
     height: 70px;
     margin-right: 10px;
 }
-=======
-    display: flex;
-    margin-top: 10px;
-}
-
->>>>>>> b5d054be576ebca683d1008215acb4c0da527c81
 nav a{
     font-weight: 600;
     padding-right: 10px;
 }
-<<<<<<< HEAD
 a p{
     font-family: 'SpiderMan-Sans';
     font-weight: 600;
@@ -71,8 +53,4 @@ a p{
 .spider-comic img{
     height: 200px;
     float: right;
-=======
-nav{
-    align-items: center;
->>>>>>> b5d054be576ebca683d1008215acb4c0da527c81
 }
