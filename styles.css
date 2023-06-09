@@ -57,6 +57,7 @@ header{
     border-top: 1px solid transparent;
     width: 80%;
     border: 5px solid black;
+    box-shadow: 0px 10px 20px 0px rgb(242, 3, 3)
 }
 .logo{
     display: flex;
@@ -70,14 +71,24 @@ nav a{
     font-weight: 600;
     padding-right: 10px;
 }
+#spider-main{
+  width: 100px;
+  padding: 0 15px;
+  float: right;
+}
+nav a:hover{
+  font-size: 650;
+  color: white;
+}
 a p{
     font-family: 'SpiderMan-Sans';
     font-weight: 600;
     font-size: 30px;
 }
 .spider-comic img{
-    height: 200px;
+    height: 150px;
     float: right;
+    margin-left: 10px;
 }
 footer{
     display: flex;
@@ -161,4 +172,5 @@ footer img{
   }
 #gif{
     height: 100px;
+    float: right;
 }
