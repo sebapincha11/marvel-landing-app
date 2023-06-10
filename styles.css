@@ -174,3 +174,18 @@ footer img{
     height: 100px;
     float: right;
 }
+@media(max-width: 600px){
+  header{
+    flex-direction: column;
+    justify-content: center;
+    height: 100px;
+    padding: 20px;
+    align-items: center;
+  }
+  .logo img{
+    height: 40px;  
+  }
+  html{
+    scroll-padding-top: 200px;
+  }
+}
