@@ -184,7 +184,7 @@ h4{
     flex-direction: column;
     justify-content: center;
     height: 100px;
-    padding: 20px;
+    
     align-items: center;
   }
   .logo img{
@@ -192,5 +192,8 @@ h4{
   }
   html{
     scroll-padding-top: 200px;
+  }
+  #animation-2{
+    margin-bottom: 20px;
   }
 }
